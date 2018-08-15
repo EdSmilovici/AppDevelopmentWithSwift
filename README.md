@@ -9,3 +9,5 @@ The book can be found for free in the iBooks store!
 Completed Projects:
 1.  Light (August 2nd 2018)
     Simple flashlight, a classic original ios app is surprisingly simple to create nowadays!
+2.  Apple Pie (August 13th 2018)
+    Hangman like game, buttons and stack views, quite the essential duo it seems.
